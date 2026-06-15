@@ -26,7 +26,7 @@ feature/report-generation
 
 Bug fixes:
 
-bugfix/<bug-name>
+`bugfix/<bug-name>`
 
 Examples:
 
