@@ -14,7 +14,7 @@ Developers do not commit directly to the main branch. All work is performed in f
 
 Feature branches:
 
-feature/<feature-name>
+`feature/<feature-name>`
 
 Examples:
 
